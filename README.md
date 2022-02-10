@@ -13,8 +13,11 @@ The State Water Board does not require monitoring for SARS-CoV-2, but encourages
 In collaboration with our agency partners, the State Water Board is monitoring SARS-CoV-2 at the headworks or "influent" of 21 wastewater treatment facilities in the state representing a population of approximately 19 million or 48% of our total population. The following lists the local agencies participating on this effort:
 
 •	San Francisco Public Utilities District
+
 •	Los Angeles County Sanitation District
+
 •	Orange County Sanitation District
+
 •	……
 
 ## Standard Operating Procedures to Measure and Report SARS-CoV-2
@@ -64,49 +67,3 @@ For any questions about the data submittal process please contact NA.
 •	[CDC Developing a Wastewater Surveillance Sampling Strategy](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/wastewater-surveillance/developing-a-wastewater-surveillance-sampling-strategy.html)
 
 •	[CDC Public Health Interpretation and Use of Wastewater Surveillance Data](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/wastewater-surveillance/public-health-interpretation.html)
-
-
-
-
-
-
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/nnl101/ca_waterboards/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nnl101/ca_waterboards/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
